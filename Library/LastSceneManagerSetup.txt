@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VoxelMesh.unity
+- path: Assets/SteamVR/Simple Sample.unity
   isLoaded: 1
   isActive: 1

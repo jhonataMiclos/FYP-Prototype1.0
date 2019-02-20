@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9793a7008d36670459671554b4cc9a31, type: 3}
+  m_Name: SteamVR_Input_ActionSet_default_In
+  m_EditorClassIdentifier: 
+  actionSet: {fileID: 0}
+  listDirection: 0
+  actions:
+  - {fileID: 11400000, guid: 3cea8c83b4dd2be4dabdc9ad433a5f96, type: 2}
+  - {fileID: 11400000, guid: 980e4493ccf343843a1008b1dd48931d, type: 2}
+  - {fileID: 11400000, guid: 1b73cf44b70562f489ccbcf349c46783, type: 2}
+  - {fileID: 11400000, guid: 2131f43d761b8544caf6869b38da0bd6, type: 2}
+  - {fileID: 11400000, guid: a0ad45c33d317ec44b03ef93d13a8e15, type: 2}
+  - {fileID: 11400000, guid: 74b55a4b9bbf1e54496c23a0a4ac2cf1, type: 2}
+  - {fileID: 11400000, guid: 3df804b52fd580a4dbac0f263e0bb5e0, type: 2}
+  - {fileID: 11400000, guid: dc57cc41f3469d04c9183a40bbbd4026, type: 2}
+  - {fileID: 11400000, guid: 2f2642b1b2b65fb44b9f19344baef1b0, type: 2}
+  - {fileID: 11400000, guid: 5814bac301e823a4293042210e9634a8, type: 2}
+  - {fileID: 11400000, guid: 5cc44d3a3530ab04a9f148db9182b77d, type: 2}
+  InteractUI: {fileID: 11400000, guid: 3cea8c83b4dd2be4dabdc9ad433a5f96, type: 2}
+  Teleport: {fileID: 11400000, guid: 980e4493ccf343843a1008b1dd48931d, type: 2}
+  GrabPinch: {fileID: 11400000, guid: 1b73cf44b70562f489ccbcf349c46783, type: 2}
+  GrabGrip: {fileID: 11400000, guid: 2131f43d761b8544caf6869b38da0bd6, type: 2}
+  Pose: {fileID: 11400000, guid: a0ad45c33d317ec44b03ef93d13a8e15, type: 2}
+  SkeletonLeftHand: {fileID: 11400000, guid: 74b55a4b9bbf1e54496c23a0a4ac2cf1, type: 2}
+  SkeletonRightHand: {fileID: 11400000, guid: 3df804b52fd580a4dbac0f263e0bb5e0, type: 2}
+  Squeeze: {fileID: 11400000, guid: dc57cc41f3469d04c9183a40bbbd4026, type: 2}
+  ActionCut: {fileID: 11400000, guid: 2f2642b1b2b65fb44b9f19344baef1b0, type: 2}
+  Plant: {fileID: 11400000, guid: 5814bac301e823a4293042210e9634a8, type: 2}
+  CtrlZ: {fileID: 11400000, guid: 5cc44d3a3530ab04a9f148db9182b77d, type: 2}
